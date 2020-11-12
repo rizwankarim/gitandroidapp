@@ -35,4 +35,14 @@
         android:layout_height="wrap_content"
         android:text="bYE"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="god"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fourth Button"/>
+
 </LinearLayout>
