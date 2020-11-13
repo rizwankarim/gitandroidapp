@@ -7,6 +7,7 @@
     app:cardCornerRadius="10dp"
     android:layout_marginTop="10dp"
     android:layout_marginBottom="10dp"
+    app:cardBackgroundColor="@android:color/transparent"
     >
 
     <LinearLayout
@@ -24,7 +25,8 @@
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:src="@drawable/usericon"
-                android:padding="5dp"/>
+                android:padding="8dp"
+                />
 
         </LinearLayout>
 
