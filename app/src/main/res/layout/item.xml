@@ -22,7 +22,7 @@
             android:layout_margin="10dp"
             >
             <ImageView
-                android:layout_width="70dp"
+                android:layout_width="65dp"
                 android:layout_height="70dp"
                 android:src="@drawable/usericon"
                 android:padding="8dp"
@@ -35,6 +35,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_marginRight="10dp"
+
             android:orientation="vertical"
             >
 
